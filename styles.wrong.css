@@ -1,0 +1,24 @@
+body,
+html {
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	height: 100%;
+	width: 100%;
+	font-size: 100%;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+}
+
+.st-Main {
+	border-radius: 3px;
+	padding: 20px;
+	font: caption;
+	font-size: 1.8em;
+	line-height: 1.4;
+	color: #555;
+}
